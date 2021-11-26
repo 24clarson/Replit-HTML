@@ -1,0 +1,37 @@
+body {
+    background-color: darkgray;
+    background-image: url("../images/illusion.png");
+    background-size: 10 vh;
+    background-repeat: repeat;
+}
+
+p {
+    color: white;
+    font-family: 'Courier New', monospace;
+    font-size: 4vh;
+    text-align: center;
+    text-emphasis: bold;
+}
+
+a:link,a:visited {
+    color: white;
+}
+
+a:hover {
+    color: purple;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: white;
+    font-family: 'Courier New', monospace;
+    font-size: 50px;
+    text-align: center;
+    text-emphasis: bold;
+}
+
+body {
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+}
+

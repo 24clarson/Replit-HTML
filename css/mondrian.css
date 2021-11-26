@@ -1,0 +1,132 @@
+
+#painting {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    border: 0;
+    padding: 0px;
+    margin: 30px;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+#redsquare {
+    height: 290px;
+    width: 290px;
+}
+
+#linetop {
+    height: 290px;
+    width: 10px;
+}
+
+#leftcolumn {
+    height: 290px;
+    width: 100px;
+}
+
+#whiterectangle {
+    height: 140px;
+    width: 100px;
+}
+
+#whiterectangle2 {
+    height: 140px;
+    width: 100px;
+}
+
+#leftbar {
+    height: 10px;
+    width: 100px;
+}
+
+#bottomrow {
+    height: 110px;
+    width: 400px;
+}
+
+#row {
+    height: 10px;
+    width: 400px;
+}
+
+#bluesquare {
+    height: 100px;
+    width: 100px;
+}
+
+#bottombar {
+    height: 100px;
+    width: 10px;
+}
+
+#bottombar2 {
+    height: 100px;
+    width: 10px;
+}
+
+#largewhite {
+    height: 100px;
+    width: 260px;
+}
+
+#lowerright {
+    height: 100px;
+    width: 20px;
+}
+
+#small {
+    height: 45px;
+    width: 20px;
+}
+
+#small2 {
+    height: 45px;
+    width: 20px;
+}
+
+#tiny {
+    height: 10px;
+    width: 20px;
+}
+
+.red {
+    background-color: red;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.black {
+    background-color: black;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.blue {
+    background-color: blue;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.yellow {
+    background-color: yellow;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.blank {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
